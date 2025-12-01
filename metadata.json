@@ -1,0 +1,7 @@
+{
+  "name": "Libras MVP",
+  "description": "Interface acessível e moderna para prática de Libras com validação de movimentos via câmera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
